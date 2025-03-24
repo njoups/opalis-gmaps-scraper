@@ -1,0 +1,12 @@
+{
+  "name": "opalis-gmaps-scraper",
+  "version": "1.0.0",
+  "description": "Scraper Google Maps sederhana dengan Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
